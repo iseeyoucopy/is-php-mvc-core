@@ -1,0 +1,15 @@
+{
+    "name": "iseeyoucopy/php-mvc-core",
+    "authors": [
+        {
+            "name": "Iseeyoucopy",
+            "email": "Iseeyoucopy@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "iseeyoucopy\\phpmvc\\": "."
+        }
+    }
+}
